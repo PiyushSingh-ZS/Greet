@@ -4,10 +4,8 @@ import (
 	"awesomeProject/internal/http/bye"
 	helloHandler "awesomeProject/internal/http/hello"
 	"awesomeProject/internal/http/name"
-
 	helloSvc "awesomeProject/internal/service/hello"
 	nameSvc "awesomeProject/internal/service/name"
-
 	"developer.zopsmart.com/go/gofr/pkg/gofr"
 )
 
